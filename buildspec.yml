@@ -1,0 +1,10 @@
+version: 0.2
+
+phases:
+    pre_build:
+        commands:
+            - echo "Verifying libpostal"
+            - pkg-config --cflags --libs libpostal
+    build:
+        commands:
+            - echo "Running placeholder"

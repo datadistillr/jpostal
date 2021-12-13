@@ -31,3 +31,21 @@ m4/lt~obsolete.m4
 missing
 src/main/c/Makefile.in
 
+# build files
+Makefile
+build/
+config.h
+config.h.in~
+config.status
+libtool
+src/main/c/.deps/
+src/main/c/.libs/
+src/main/c/Makefile
+src/main/c/libjpostal_expander.la
+src/main/c/libjpostal_expander_la-jpostal_AddressExpander.lo
+src/main/c/libjpostal_expander_la-jpostal_AddressExpander.o
+src/main/c/libjpostal_parser.la
+src/main/c/libjpostal_parser_la-jpostal_AddressParser.lo
+src/main/c/libjpostal_parser_la-jpostal_AddressParser.o
+src/main/jniLibs/
+stamp-h1
